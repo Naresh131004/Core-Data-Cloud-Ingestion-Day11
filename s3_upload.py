@@ -14,8 +14,8 @@ def upload_to_s3():
     # Explicitly providing your keys here avoids any environment variable or configuration errors
     s3_client = boto3.client(
         's3',
-        aws_access_key_id='YOUR AMAZON ACCESS KEY',
-        aws_secret_access_key='YOUR AMAZON SECRET KEY',
+        aws_access_key_id='YOUR AWS ACCESS KEY',
+        aws_secret_access_key='YOUR AWS SECRET ACCESS KEY',
         region_name='ap-south-1'
     )
     
