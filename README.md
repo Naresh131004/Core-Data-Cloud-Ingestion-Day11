@@ -13,3 +13,7 @@ This project implements the **Bronze Layer (Raw Landing)** of the modern Medalli
 * **Cloud Storage:** Amazon S3 (Data Lake Object Storage)
 * **Data Warehouse:** Snowflake
 * **Containerization:** Docker & Docker Compose
+
+## 🏗️ Pipeline Architecture
+
+![End-to-End Data Pipeline Architecture](Assets/Flow_chart_diagram.png)
