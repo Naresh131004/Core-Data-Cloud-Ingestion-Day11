@@ -14,6 +14,6 @@ This project implements the **Bronze Layer (Raw Landing)** of the modern Medalli
 * **Data Warehouse:** Snowflake
 * **Containerization:** Docker & Docker Compose
 
-## 🏗️ Pipeline Architecture
+## 🏗️ Pipeline Architecture Automation through Airflow
 
 ![End-to-End Data Pipeline Architecture](Assets/Flow_chart_diagram.png)
